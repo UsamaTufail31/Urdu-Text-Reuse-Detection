@@ -1,0 +1,1 @@
+# Urdu-Text-Reuse-Detection
